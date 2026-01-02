@@ -1,4 +1,4 @@
-﻿name: Generate Snake
+name: Generate Snake
 
 on:
   schedule:
@@ -17,7 +17,7 @@ jobs:
       - name: Generate Snake Animation
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: outladder
+          github_user_name: goldbane1
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
