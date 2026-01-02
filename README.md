@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=From+Nothing+to+Something+to+Everything;Software+Developer;Always+Learning+New+Things;Open+Source+Enthusiast)
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=From+Nothing+to+Something+to+Everything;Software+Developer;Open+Source+Enthusiast)
 
 </div>
 
