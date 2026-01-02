@@ -11,9 +11,9 @@
 ```javascript
 const goldbane = {
     location: "Türkiye 🇹🇷",
-    currentFocus: "Web Development","Linux",
-    learning: ["ASP.NET Core", "", "Cloud Technologies", "Linux", "Embedded Systems"],
-    funFact: "There's only one rule in the jungle: when the lion's hungry, he eats! "
+    currentFocus: ["Mobile Development", "Backend Systems", "Embedded Systems & IoT", "Cloud Native Applications"],
+    learning: ["ASP.NET Core", "Flutter", "Cloud Technologies", "Linux", "Embedded Systems"],
+    funFact: "There's only one rule in the jungle: when the lion's hungry, he eats! 🦁"
 };
 ```
 
