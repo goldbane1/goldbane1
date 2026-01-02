@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Nothing+to+Something+to+Everything;Full+Stack+Developer;Always+Learning+New+Things;Open+Source+Enthusiast)
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Nothing+to+Something+to+Everything;Software+Developer;Always+Learning+New+Things;Open+Source+Enthusiast)
 
 </div>
 
@@ -11,9 +11,9 @@
 ```javascript
 const goldbane = {
     location: "Türkiye 🇹🇷",
-    currentFocus: "Web Development",
-    learning: ["ASP.NET Core", "React", "Cloud Technologies", "Linux", "Embedded Systems"],
-    funFact: "Bug'ları düzeltmek için yazdığım kod, yeni bug'lar üretiyor 🐛"
+    currentFocus: "Web Development","Linux",
+    learning: ["ASP.NET Core", "", "Cloud Technologies", "Linux", "Embedded Systems"],
+    funFact: "There's only one rule in the jungle: when the lion's hungry, he eats! "
 };
 ```
 
@@ -35,6 +35,11 @@ const goldbane = {
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Mobile
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### Araçlar
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -100,6 +105,6 @@ const goldbane = {
   
   ![Profile Views](https://komarev.com/ghpvc/?username=goldbane1&color=blueviolet&style=flat-square&label=Profil+Görüntüleme)
   
-  ⭐️ [goldbane1](https://github.com/goldbane1) tarafından ❤️ ile yapıldı
+  
   
 </div>
