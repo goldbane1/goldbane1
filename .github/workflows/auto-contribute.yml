@@ -15,14 +15,14 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Update timestamp
-        run: |
-          echo "Last updated: $(date -u '+%Y-%m-%d %H:%M:%S UTC')" > .last_update
-          
-      - name: Commit and Push
+      - name: Update timestamp (multiple commits)
         run: |
           git config --local user.email "batuhanozdemirpersonal@gmail.com"
           git config --local user.name "goldbane1"
-          git add .last_update
-          git commit -m "Daily update - $(date -u '+%Y-%m-%d')" || echo "No changes"
+          for i in 1 2 3; do
+            echo "Last updated: $(date -u '+%Y-%m-%d %H:%M:%S UTC') - commit #$i" > .last_update
+            git add .last_update
+            git commit -m "Auto update #$i - $(date -u '+%Y-%m-%d')" || echo "No changes for commit #$i"
+            sleep 2  
+          done
           git push
