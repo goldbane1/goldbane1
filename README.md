@@ -59,12 +59,6 @@ const goldbane = {
   <img src="https://streak-stats.demolab.com/?user=goldbane1&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=goldbane1&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophy" />
-</div>
-
 ## 📈 Contribution Graph
 
 <div align="center">
@@ -75,7 +69,7 @@ const goldbane = {
 
 <div align="center">
   
-[![KitapYurdu](https://github-readme-stats.vercel.app/api/pin/?username=goldbane1&repo=KitapYurdu&theme=tokyonight)](https://github.com/goldbane1/KitapYurdu)
+[![TepeBasiBelediyeCopSist](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=goldbane1&repo=TepeBasiBelediyeCopSist&theme=tokyonight)](https://github.com/goldbane1/TepeBasiBelediyeCopSist)
 
 </div>
 
