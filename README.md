@@ -59,6 +59,9 @@ const goldbane = {
 <div align="center">
   
 [![TepeBasiBelediyeCopSist](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=goldbane1&repo=TepeBasiBelediyeCopSist&theme=tokyonight)](https://github.com/goldbane1/TepeBasiBelediyeCopSist)
+[![pyScripts](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=goldbane1&repo=pyScripts&theme=tokyonight)](https://github.com/goldbane1/pyScripts)
+[![Shell-Scripts](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=goldbane1&repo=Shell-Scripts&theme=tokyonight)](https://github.com/goldbane1/Shell-Scripts)
+[![BasitHesapMakinesi](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=goldbane1&repo=BasitHesapMakinesi&theme=tokyonight)](https://github.com/goldbane1/BasitHesapMakinesi)
 
 </div>
 
