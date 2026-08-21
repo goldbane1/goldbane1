@@ -54,17 +54,6 @@ const goldbane = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=goldbane1&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </div>
 
-## 🔥 Son Projelerim
-
-<div align="center">
-  
-[![TepeBasiBelediyeCopSist](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=goldbane1&repo=TepeBasiBelediyeCopSist&theme=tokyonight)](https://github.com/goldbane1/TepeBasiBelediyeCopSist)
-[![pyScripts](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=goldbane1&repo=pyScripts&theme=tokyonight)](https://github.com/goldbane1/pyScripts)
-[![Shell-Scripts](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=goldbane1&repo=Shell-Scripts&theme=tokyonight)](https://github.com/goldbane1/Shell-Scripts)
-[![BasitHesapMakinesi](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=goldbane1&repo=BasitHesapMakinesi&theme=tokyonight)](https://github.com/goldbane1/BasitHesapMakinesi)
-
-</div>
-
 ## 🐍 Contribution Snake
 
 <div align="center">
