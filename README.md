@@ -48,17 +48,6 @@ const goldbane = {
 
 </div>
 
-## 📊 GitHub İstatistiklerim
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=goldbane1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=goldbane1&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=goldbane1&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
 ## 📈 Contribution Graph
 
 <div align="center">
